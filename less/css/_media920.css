@@ -1,0 +1,21 @@
+@media screen and (max-width: 920px) {
+  .block-product {
+    width: auto;
+    margin: 0 3%;
+  }
+  .feedback-content {
+    width: 100%;
+  }
+  .feedback-form {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .feedback-form__area {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
